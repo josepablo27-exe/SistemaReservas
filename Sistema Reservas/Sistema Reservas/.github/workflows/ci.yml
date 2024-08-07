@@ -1,0 +1,35 @@
+﻿name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository code
+      uses: actions/checkout@v2
+
+    - name: Set up .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '4.7.2'  
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --configuration Release --no-restore
+
+    - name: Run tests
+      run: dotnet test --no-restore --verbosity normal
+
+    - name: Set up environment variables
+      env:
+        VONAGE_API_KEY: ${{ secrets.VONAGE_API_KEY }}
+        VONAGE_API_SECRET: ${{ secrets.VONAGE_API_SECRET }}
+        DB_CONNECTION_STRING: ${{ secrets.DB_CONNECTION_STRING }}
+      run: |
+        echo "Vonage API Key: $VONAGE_API_KEY"
+        echo "Vonage API Secret: $VONAGE_API_SECRET"
+        echo "Database Connection String: $DB_CONNECTION_STRING"

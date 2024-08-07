@@ -1,0 +1,99 @@
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\appsettings.json
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Carga.gif
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Sistema Reservas.exe.config
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Sistema Reservas.exe.manifest
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Sistema Reservas.application
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Sistema Reservas.exe
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Sistema Reservas.pdb
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\ColorTranslations.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Enums.NET.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Epoch.net.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\jose-jwt.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\MySql.Data.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Newtonsoft.Json.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Buffers.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.IO.Abstractions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Memory.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Security.Cryptography.Cng.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Text.Json.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.ValueTuple.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\TestableIO.System.IO.Abstractions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Vonage.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Yoh.Text.Json.NamingPolicies.dll
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Enums.NET.pdb
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Enums.NET.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Epoch.net.pdb
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Epoch.net.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\MySql.Data.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Newtonsoft.Json.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Buffers.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.IO.Abstractions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Memory.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Security.Cryptography.Cng.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Text.Json.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\System.ValueTuple.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\TestableIO.System.IO.Abstractions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\bin\Release\Vonage.xml
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema Reservas.csproj.AssemblyReference.cache
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema Reservas.csproj.SuggestedBindingRedirects.cache
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema_Reservas.Alerta.resources
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema_Reservas.CantidadAsientosSalon.resources
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema_Reservas.CantidadAsientosTransmision.resources
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema_Reservas.Inicio.resources
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema_Reservas.NumeroTelefonicoSalon.resources
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema_Reservas.NumeroTelefonicoTransmision.resources
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema_Reservas.PantallaCarga.resources
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema_Reservas.Properties.Resources.resources
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema_Reservas.SalonPrincipal.resources
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema_Reservas.Transmision.resources
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema Reservas.csproj.GenerateResource.cache
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema Reservas.csproj.CoreCompileInputs.cache
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema Reservas.exe.manifest
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema Reservas.application
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema Reservas.csproj.CopyComplete
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema Reservas.exe
+C:\Users\toted\Documents\GitHub\SistemaReservas\Sistema Reservas\Sistema Reservas\obj\Release\Sistema Reservas.pdb
