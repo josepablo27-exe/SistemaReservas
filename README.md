@@ -6,15 +6,27 @@ This desktop application, named in Spanish, is a reservation system designed for
 multiple days a week, which most of the community attends. The application's goal is to allow users to choose the room they want to be in, select their desired seats, and provide a phone number to receive 
 seat numbers and complete the reservation. The app is meant to be used in the association’s lobby, minutes before the event.
 
+## Project Status
+
+![Static Badge](https://img.shields.io/badge/Completed-100%25-green?style=for-the-badge)
+
 ## Features
 
-• Seat recommendation:
+• Seat recommendation: The system will recommend seats to the user, following an established order.
 
-• Text Message API:
+• Text Message API: Communication API utilized to send text messages, with the seat confirmation to the user.
 
-• Available seats counter:
+• Available seats counter: Each room option shows the amount of available seats.
 
-## Used Tecnologies
+## Used Technologies
+
+• C#
+
+• .NET Framework
+
+• Vonage API
+
+• MySQL
 
 ## Usage
 
